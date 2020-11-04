@@ -1,0 +1,73 @@
+body{ 
+    background-image: url('../img/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center center;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: #d3c2be;
+    opacity: 0.9;  
+  }
+
+
+.navbar{
+    background-color: #54c6eb !important;
+}
+
+
+#navString{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    color: white;
+}
+
+
+.language_icon{
+    padding: 5px;
+}
+
+
+#main_container{
+    background-color: #006BA6 !important;
+}
+
+
+#centralSection{
+    background-color: #54c6eb !important;
+    margin-top: 150px;
+}
+
+
+#main_messagge_container{
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 30px;
+    color: #0c0200;
+    margin: 20px;
+    padding: 10px;
+}
+
+
+#websites_container{
+    margin: 50px;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+
+
+.social_container{
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin: 10px;
+    
+}
+
+
+#footer{
+    background-color: #54c6eb !important;
+    margin-top: 280px;
+    color: white;
+    
+}
+
+
+#footer a{
+    color: white;
+}
