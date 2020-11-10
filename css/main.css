@@ -21,6 +21,7 @@ body{
 #navString{
     font-family: Brush Script MT, Brush Script Std, cursive;
     color: black;
+    text-shadow: 2px 2px white;
 }
 
 
@@ -37,16 +38,17 @@ body{
 
 #centralSection{
     background-color: #fcddfa !important;
-  
-    margin-top: 120px;
+    margin-top: 80px;
 }
 
 
 #main_messagge_container{
-    background-color: #f1f1f1 !important;
-    font-family: Arial,sans-serif;
+    background-color: #fcebfb !important;
+    font-family: "Comic Sans MS", cursive, sans-serif;
     font-size: 20px;
-    color: #0c0200;
+    font-style: italic;
+    text-shadow: 2px 2px white;
+    color: black;
     margin: 20px;
     padding: 10px;
 }
@@ -58,9 +60,9 @@ body{
 }
 
 #websites_container{
-    margin: 50px;
-    margin-bottom: 100px;
-    padding: 20px;
+    margin: 10px 30px 10px 30px;
+    padding: 40px !important;
+    background-color: #fcebfb !important;
 }
 
 
@@ -75,7 +77,7 @@ body{
 
 #footer{
     background-color: #fcddfa !important;
-    margin-top: 30px;
+    margin-top: 300px !important;
     color: black;
 }
 
